@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuc</h1>
-<h3 align="center">A Fresher Java Backend Developer</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
